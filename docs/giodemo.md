@@ -1,0 +1,4 @@
+ 
+# giodemo module
+
+::: giodemo.giodemo
